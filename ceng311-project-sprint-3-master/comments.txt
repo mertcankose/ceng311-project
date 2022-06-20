@@ -1,0 +1,16 @@
+Mertcan Köse 18050111061
+Eray Ergüleç 18050111018
+
+WEB SITE
+https://ceng311-project-sprint-3.vercel.app/
+
+
+JQUERY PLUGINS (external folder)
+1- Whatsapp Chat (Home)
+2- Progress Bar (About)
+3- Swiper Slider (Event)
+4- Countdown Timer (Events)
+
+JQUERY UI
+1- AUTOCOMPLETE
+2- CONTACT FORM VALIDATIONS

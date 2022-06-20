@@ -1,0 +1,21 @@
+Mertcan Köse 18050111061
+Eray Ergüleç 18050111018
+
+https://ceng311-project-sprint-2.vercel.app/
+
+
+1) index.html (Home)
+- This is the home page of the website.
+- It contains superficial information about other pages.
+
+2) events.html (Events)
+- It shows the active and previous activities of our community in the form of images.
+
+3) blog.html (Blog)
+- The page where the blog posts are located.
+
+4) about.html (About)
+- The page where the board of directors and other members are located.
+
+5) contact.html (Contact)
+- The page where the contact form is located.
